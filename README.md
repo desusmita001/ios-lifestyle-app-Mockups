@@ -5,7 +5,7 @@ A production-ready lifestyle iOS app built with Swift and SwiftUI, demonstrating
 
 ## App Mockup
 
-![App Mockup](https://github.com/desusmita001/iOS-lifestyle-App/blob/main/screenshots/mockup1.png)
+![App Mockup](https://github.com/desusmita001/ios-lifestyle-app-Mockups/blob/main/screenshots/mockup1.png)
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 ![iOS](https://img.shields.io/badge/iOS-17-blue)
