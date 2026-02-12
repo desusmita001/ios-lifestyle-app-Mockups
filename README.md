@@ -5,7 +5,7 @@ A production-ready lifestyle iOS app built with Swift and SwiftUI, demonstrating
 
 ## App Mockup
 
-![App Mockup](https://github.com/desusmita001/ios-lifestyle-app-Mockups/blob/main/screenshots/mockup1.png)
+![App Mockup](https://github.com/desusmita001/ios-lifestyle-app-Mockups/blob/main/screenshots/mockup2.png)
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 ![iOS](https://img.shields.io/badge/iOS-17-blue)
@@ -13,8 +13,8 @@ A production-ready lifestyle iOS app built with Swift and SwiftUI, demonstrating
 
 ## Image Credits
 
-Images and thumbnails used in this project are hand-drawn and belong to Copyright © 2026 Susmita De 
-<!-- [Unsplash](https://unsplash.com/) -->
+<!-- Images and thumbnails used in this project are hand-drawn and belong to Copyright © 2026 Susmita De  -->
+Images and thumbnails used in this project are from [Unsplash](https://unsplash.com/)
 
 These images are used **solely for UI demonstration and development purposes** 
 in this repository. This project is not intended for commercial distribution, 
